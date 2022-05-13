@@ -1,0 +1,6 @@
+{% extends 'base.html' %}
+
+{% block content %}
+{{ super() }}
+<p>Пожалуйста авторизуйтесь <a href="{{url_for('login')}}">*тык*</a>
+{% endblock %}
