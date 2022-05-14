@@ -5,9 +5,9 @@
     <meta charset="UTF-8">
 {% block title-%}
 {% if title %}
-        <title>Изучаю Flack - {{ title }}</title>
+        <title>Изучаю Flask - {{ title }}</title>
 {% else %}
-        <title>Изучаю Flack</title>
+        <title>Изучаю Flask</title>
 {% endif %}
 {% endblock %}
 </head>
@@ -16,7 +16,7 @@
         {%- block mainmenu -%}
 <ul class="mainmenu">
         {% for m in menu -%}
-<li><a href="{{m.url}}">{{m.name}}</a> </li>
+<li><a href="{{m.url}}">{{m.title}}</a> </li>
         {% endfor -%}
 </ul>
         {% endblock mainmenu -%}
@@ -25,7 +25,7 @@
         {% if title -%}
 <h1>{{ title }}</h1>
         {% else -%}
-<h1>Изучаю Flack</h1>
+<h1>Изучаю Flask</h1>
         {% endif -%}
 {% endblock -%}
 </div>
