@@ -4,10 +4,17 @@
     <list default="true" id="c53f3ddb-82fa-4598-bbf2-75bbc5e8c289" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FDataBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/FDataBase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flsite.db" beforeDir="false" afterPath="$PROJECT_DIR$/flsite.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flsite.py" beforeDir="false" afterPath="$PROJECT_DIR$/flsite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sq_db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sq_db.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images_html/framework-flask-intro.files/image001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images_html/framework-flask-intro.files/image001.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/page404.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/page404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/post.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,12 +46,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="settings.editor.splitter.proportion" value="0.15401953" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pythonProject\web\static\images" />
       <recent name="D:\pythonProject\web" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -131,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652459473896</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="+ post page!">
+      <created>1652568021273</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652568021273</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -141,6 +156,7 @@
     <MESSAGE value="first steps" />
     <MESSAGE value="a little CSS" />
     <MESSAGE value="gradient + sometime templates" />
-    <option name="LAST_COMMIT_MESSAGE" value="gradient + sometime templates" />
+    <MESSAGE value="+ post page!" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ post page!" />
   </component>
 </project>
